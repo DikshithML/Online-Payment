@@ -97,4 +97,4 @@ Feel free to use, modify, and share!
 
 ---
 
-> Made with ❤️ by Dikshith ML
+> By Dikshith ML
